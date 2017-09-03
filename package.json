@@ -1,0 +1,23 @@
+{
+  "name": "bithumbBot",
+  "version": "1.0.0",
+  "description": "telegram bot serviced bithumb coin currency data",
+  "main": "server.js",
+  "os": [
+    "any"
+  ],
+  "engines": {
+    "node": ">6.0.0"
+  },
+  "private": true,
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "nGenius",
+  "license": "MIT",
+  "dependencies": {
+    "bithumbapi": "^1.0.0",
+    "node-telegram-bot-api": "^0.25.0"
+  },
+  "devDependencies": {}
+}

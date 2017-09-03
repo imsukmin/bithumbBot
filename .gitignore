@@ -1,0 +1,5 @@
+.idea/*
+node_modules
+config/index.js
+npm-debug.log
+.vscode/
